@@ -15,4 +15,4 @@ Scrap data from [10000recipe.com](https://www.10000recipe.com/recipe/list.html) 
 <p align="center">
   <img src="https://github.com/kseob758/10000recipe-collection/assets/125840318/a944bb6b-7907-4f7f-b169-cf1359037831" width=600>
 </p>
-- 재료는 상세 페이지에서 수집
+- 재료는 먼저 수집한 링크를 이용하여 상세 페이지에서 수집
